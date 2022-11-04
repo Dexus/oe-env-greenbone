@@ -16,7 +16,9 @@ hob-image-*.bb
 *.orig
 *.rej
 *~
+vscode-bitbake-build/
 !meta-poky
+!meta-clang
 !meta-yocto
 !meta-yocto-bsp
 !meta-yocto-imported
